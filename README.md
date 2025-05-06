@@ -1,7 +1,7 @@
 ### Exercicis de MongoDB amb C#
 
-#### Cada branch és un exercici
--------------------------------
+#### Característiques de cada EA:
+---------------------------------
 
 - EA1 / Consultes bàsiques
 - EA2 / CRUD amb BsonDocs
