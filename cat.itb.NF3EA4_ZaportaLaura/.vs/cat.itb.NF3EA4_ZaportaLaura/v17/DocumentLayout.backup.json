@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA4_CognomNom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF7230C-9F54-4BAA-84C5-9DD3578612F2}|cat.itb.NF3EA4_CognomNom\\cat.itb.NF3EA4_ZaportaLaura.csproj|c:\\users\\msi 2.0\\desktop\\cat.itb.nf3ea4_cognomnom\\cat.itb.nf3ea4_cognomnom\\cruds\\productscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF7230C-9F54-4BAA-84C5-9DD3578612F2}|cat.itb.NF3EA4_CognomNom\\cat.itb.NF3EA4_ZaportaLaura.csproj|solutionrelative:cat.itb.nf3ea4_cognomnom\\cruds\\productscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF7230C-9F54-4BAA-84C5-9DD3578612F2}|cat.itb.NF3EA4_CognomNom\\cat.itb.NF3EA4_ZaportaLaura.csproj|c:\\users\\msi 2.0\\desktop\\cat.itb.nf3ea4_cognomnom\\cat.itb.nf3ea4_cognomnom\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF7230C-9F54-4BAA-84C5-9DD3578612F2}|cat.itb.NF3EA4_CognomNom\\cat.itb.NF3EA4_ZaportaLaura.csproj|solutionrelative:cat.itb.nf3ea4_cognomnom\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF7230C-9F54-4BAA-84C5-9DD3578612F2}|cat.itb.NF3EA4_CognomNom\\cat.itb.NF3EA4_CognomNom.csproj|c:\\users\\msi 2.0\\desktop\\cat.itb.nf3ea4_cognomnom\\cat.itb.nf3ea4_cognomnom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF7230C-9F54-4BAA-84C5-9DD3578612F2}|cat.itb.NF3EA4_CognomNom\\cat.itb.NF3EA4_CognomNom.csproj|solutionrelative:cat.itb.nf3ea4_cognomnom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF7230C-9F54-4BAA-84C5-9DD3578612F2}|cat.itb.NF3EA4_CognomNom\\cat.itb.NF3EA4_CognomNom.csproj|c:\\users\\msi 2.0\\desktop\\cat.itb.nf3ea4_cognomnom\\cat.itb.nf3ea4_cognomnom\\cruds\\restaurantscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF7230C-9F54-4BAA-84C5-9DD3578612F2}|cat.itb.NF3EA4_CognomNom\\cat.itb.NF3EA4_CognomNom.csproj|solutionrelative:cat.itb.nf3ea4_cognomnom\\cruds\\restaurantscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF7230C-9F54-4BAA-84C5-9DD3578612F2}|cat.itb.NF3EA4_CognomNom\\cat.itb.NF3EA4_CognomNom.csproj|c:\\users\\msi 2.0\\desktop\\cat.itb.nf3ea4_cognomnom\\cat.itb.nf3ea4_cognomnom\\cruds\\countriescrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF7230C-9F54-4BAA-84C5-9DD3578612F2}|cat.itb.NF3EA4_CognomNom\\cat.itb.NF3EA4_CognomNom.csproj|solutionrelative:cat.itb.nf3ea4_cognomnom\\cruds\\countriescrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF7230C-9F54-4BAA-84C5-9DD3578612F2}|cat.itb.NF3EA4_CognomNom\\cat.itb.NF3EA4_CognomNom.csproj|c:\\users\\msi 2.0\\desktop\\cat.itb.nf3ea4_cognomnom\\cat.itb.nf3ea4_cognomnom\\files\\restaurants.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DF7230C-9F54-4BAA-84C5-9DD3578612F2}|cat.itb.NF3EA4_CognomNom\\cat.itb.NF3EA4_CognomNom.csproj|solutionrelative:cat.itb.nf3ea4_cognomnom\\files\\restaurants.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA4_CognomNom\\cat.itb.NF3EA4_CognomNom\\model\\Product.cs",
+              "RelativeDocumentMoniker": "cat.itb.NF3EA4_CognomNom\\model\\Product.cs",
+              "ToolTip": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA4_CognomNom\\cat.itb.NF3EA4_CognomNom\\model\\Product.cs",
+              "RelativeToolTip": "cat.itb.NF3EA4_CognomNom\\model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:52:37.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA4_CognomNom\\cat.itb.NF3EA4_CognomNom\\cruds\\ProductsCRUD.cs",
+              "RelativeDocumentMoniker": "cat.itb.NF3EA4_CognomNom\\cruds\\ProductsCRUD.cs",
+              "ToolTip": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA4_CognomNom\\cat.itb.NF3EA4_CognomNom\\cruds\\ProductsCRUD.cs*",
+              "RelativeToolTip": "cat.itb.NF3EA4_CognomNom\\cruds\\ProductsCRUD.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:50:04.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "restaurants.json",
+              "DocumentMoniker": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA4_CognomNom\\cat.itb.NF3EA4_CognomNom\\files\\restaurants.json",
+              "RelativeDocumentMoniker": "cat.itb.NF3EA4_CognomNom\\files\\restaurants.json",
+              "ToolTip": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA4_CognomNom\\cat.itb.NF3EA4_CognomNom\\files\\restaurants.json",
+              "RelativeToolTip": "cat.itb.NF3EA4_CognomNom\\files\\restaurants.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T08:15:37.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CountriesCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA4_CognomNom\\cat.itb.NF3EA4_CognomNom\\cruds\\CountriesCRUD.cs",
+              "RelativeDocumentMoniker": "cat.itb.NF3EA4_CognomNom\\cruds\\CountriesCRUD.cs",
+              "ToolTip": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA4_CognomNom\\cat.itb.NF3EA4_CognomNom\\cruds\\CountriesCRUD.cs",
+              "RelativeToolTip": "cat.itb.NF3EA4_CognomNom\\cruds\\CountriesCRUD.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T08:12:17.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RestaurantsCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA4_CognomNom\\cat.itb.NF3EA4_CognomNom\\cruds\\RestaurantsCRUD.cs",
+              "RelativeDocumentMoniker": "cat.itb.NF3EA4_CognomNom\\cruds\\RestaurantsCRUD.cs",
+              "ToolTip": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA4_CognomNom\\cat.itb.NF3EA4_CognomNom\\cruds\\RestaurantsCRUD.cs",
+              "RelativeToolTip": "cat.itb.NF3EA4_CognomNom\\cruds\\RestaurantsCRUD.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAkwEwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T08:11:59.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA4_CognomNom\\cat.itb.NF3EA4_CognomNom\\Program.cs",
+              "RelativeDocumentMoniker": "cat.itb.NF3EA4_CognomNom\\Program.cs",
+              "ToolTip": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA4_CognomNom\\cat.itb.NF3EA4_CognomNom\\Program.cs",
+              "RelativeToolTip": "cat.itb.NF3EA4_CognomNom\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T07:13:35.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\argo\\Desktop\\cat.itb.NF3EA1_ZaportaLaura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|c:\\users\\argo\\desktop\\cat.itb.nf3ea1_zaportalaura\\ea1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|solutionrelative:ea1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|c:\\users\\argo\\desktop\\cat.itb.nf3ea1_zaportalaura\\ea1\\files\\students.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|solutionrelative:ea1\\files\\students.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|c:\\users\\argo\\desktop\\cat.itb.nf3ea1_zaportalaura\\ea1\\files\\restaurants.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|solutionrelative:ea1\\files\\restaurants.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|c:\\users\\argo\\desktop\\cat.itb.nf3ea1_zaportalaura\\ea1\\files\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|solutionrelative:ea1\\files\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|c:\\users\\argo\\desktop\\cat.itb.nf3ea1_zaportalaura\\ea1\\files\\people.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|solutionrelative:ea1\\files\\people.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|c:\\users\\argo\\desktop\\cat.itb.nf3ea1_zaportalaura\\ea1\\files\\grades.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|solutionrelative:ea1\\files\\grades.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|c:\\users\\argo\\desktop\\cat.itb.nf3ea1_zaportalaura\\ea1\\files\\countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|solutionrelative:ea1\\files\\countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|c:\\users\\argo\\desktop\\cat.itb.nf3ea1_zaportalaura\\ea1\\files\\books.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|solutionrelative:ea1\\files\\books.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "students.json",
+              "DocumentMoniker": "C:\\Users\\argo\\Desktop\\cat.itb.NF3EA1_ZaportaLaura\\EA1\\files\\students.json",
+              "RelativeDocumentMoniker": "EA1\\files\\students.json",
+              "ToolTip": "C:\\Users\\argo\\Desktop\\cat.itb.NF3EA1_ZaportaLaura\\EA1\\files\\students.json",
+              "RelativeToolTip": "EA1\\files\\students.json",
+              "ViewState": "AgIAAKIMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T07:20:22.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "restaurants.json",
+              "DocumentMoniker": "C:\\Users\\argo\\Desktop\\cat.itb.NF3EA1_ZaportaLaura\\EA1\\files\\restaurants.json",
+              "RelativeDocumentMoniker": "EA1\\files\\restaurants.json",
+              "ToolTip": "C:\\Users\\argo\\Desktop\\cat.itb.NF3EA1_ZaportaLaura\\EA1\\files\\restaurants.json",
+              "RelativeToolTip": "EA1\\files\\restaurants.json",
+              "ViewState": "AgIAAJ0OAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T07:20:01.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "products.json",
+              "DocumentMoniker": "C:\\Users\\argo\\Desktop\\cat.itb.NF3EA1_ZaportaLaura\\EA1\\files\\products.json",
+              "RelativeDocumentMoniker": "EA1\\files\\products.json",
+              "ToolTip": "C:\\Users\\argo\\Desktop\\cat.itb.NF3EA1_ZaportaLaura\\EA1\\files\\products.json",
+              "RelativeToolTip": "EA1\\files\\products.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T07:19:43.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "people.json",
+              "DocumentMoniker": "C:\\Users\\argo\\Desktop\\cat.itb.NF3EA1_ZaportaLaura\\EA1\\files\\people.json",
+              "RelativeDocumentMoniker": "EA1\\files\\people.json",
+              "ToolTip": "C:\\Users\\argo\\Desktop\\cat.itb.NF3EA1_ZaportaLaura\\EA1\\files\\people.json",
+              "RelativeToolTip": "EA1\\files\\people.json",
+              "ViewState": "AgIAADxCAAAAAAAAAAAAAA1CAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T07:18:49.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "grades.json",
+              "DocumentMoniker": "C:\\Users\\argo\\Desktop\\cat.itb.NF3EA1_ZaportaLaura\\EA1\\files\\grades.json",
+              "RelativeDocumentMoniker": "EA1\\files\\grades.json",
+              "ToolTip": "C:\\Users\\argo\\Desktop\\cat.itb.NF3EA1_ZaportaLaura\\EA1\\files\\grades.json",
+              "RelativeToolTip": "EA1\\files\\grades.json",
+              "ViewState": "AgIAAIeGAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T07:18:16.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "countries.json",
+              "DocumentMoniker": "C:\\Users\\argo\\Desktop\\cat.itb.NF3EA1_ZaportaLaura\\EA1\\files\\countries.json",
+              "RelativeDocumentMoniker": "EA1\\files\\countries.json",
+              "ToolTip": "C:\\Users\\argo\\Desktop\\cat.itb.NF3EA1_ZaportaLaura\\EA1\\files\\countries.json",
+              "RelativeToolTip": "EA1\\files\\countries.json",
+              "ViewState": "AgIAAGxMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T07:17:08.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "books.json",
+              "DocumentMoniker": "C:\\Users\\argo\\Desktop\\cat.itb.NF3EA1_ZaportaLaura\\EA1\\files\\books.json",
+              "RelativeDocumentMoniker": "EA1\\files\\books.json",
+              "ToolTip": "C:\\Users\\argo\\Desktop\\cat.itb.NF3EA1_ZaportaLaura\\EA1\\files\\books.json",
+              "RelativeToolTip": "EA1\\files\\books.json",
+              "ViewState": "AgIAALEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T07:16:48.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\argo\\Desktop\\cat.itb.NF3EA1_ZaportaLaura\\EA1\\Program.cs",
+              "RelativeDocumentMoniker": "EA1\\Program.cs",
+              "ToolTip": "C:\\Users\\argo\\Desktop\\cat.itb.NF3EA1_ZaportaLaura\\EA1\\Program.cs",
+              "RelativeToolTip": "EA1\\Program.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAcwLgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:50:21.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

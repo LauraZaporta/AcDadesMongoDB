@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\argo\\Desktop\\EA1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|c:\\users\\argo\\desktop\\ea1\\ea1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|solutionrelative:ea1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|c:\\users\\argo\\desktop\\ea1\\ea1\\connections\\mongolocalconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|solutionrelative:ea1\\connections\\mongolocalconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|c:\\users\\argo\\desktop\\ea1\\ea1\\model\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|solutionrelative:ea1\\model\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|c:\\users\\argo\\desktop\\ea1\\ea1\\model\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|solutionrelative:ea1\\model\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|c:\\users\\argo\\desktop\\ea1\\ea1\\ea1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6106D057-0C25-4F94-A139-CE1AFF9C8C3B}|EA1\\EA1.csproj|solutionrelative:ea1\\ea1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Score.cs",
+              "DocumentMoniker": "C:\\Users\\argo\\Desktop\\EA1\\EA1\\model\\Score.cs",
+              "RelativeDocumentMoniker": "EA1\\model\\Score.cs",
+              "ToolTip": "C:\\Users\\argo\\Desktop\\EA1\\EA1\\model\\Score.cs",
+              "RelativeToolTip": "EA1\\model\\Score.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:35:18.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Users\\argo\\Desktop\\EA1\\EA1\\model\\Grade.cs",
+              "RelativeDocumentMoniker": "EA1\\model\\Grade.cs",
+              "ToolTip": "C:\\Users\\argo\\Desktop\\EA1\\EA1\\model\\Grade.cs",
+              "RelativeToolTip": "EA1\\model\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:35:12.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MongoLocalConnection.cs",
+              "DocumentMoniker": "C:\\Users\\argo\\Desktop\\EA1\\EA1\\connections\\MongoLocalConnection.cs",
+              "RelativeDocumentMoniker": "EA1\\connections\\MongoLocalConnection.cs",
+              "ToolTip": "C:\\Users\\argo\\Desktop\\EA1\\EA1\\connections\\MongoLocalConnection.cs",
+              "RelativeToolTip": "EA1\\connections\\MongoLocalConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:35:02.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EA1",
+              "DocumentMoniker": "C:\\Users\\argo\\Desktop\\EA1\\EA1\\EA1.csproj",
+              "RelativeDocumentMoniker": "EA1\\EA1.csproj",
+              "ToolTip": "C:\\Users\\argo\\Desktop\\EA1\\EA1\\EA1.csproj",
+              "RelativeToolTip": "EA1\\EA1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T08:34:11.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\argo\\Desktop\\EA1\\EA1\\Program.cs",
+              "RelativeDocumentMoniker": "EA1\\Program.cs",
+              "ToolTip": "C:\\Users\\argo\\Desktop\\EA1\\EA1\\Program.cs",
+              "RelativeToolTip": "EA1\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T08:34:15.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+C:\Users\argo\Desktop\EA1\EA1\bin\Debug\net8.0\EA1.exe
+C:\Users\argo\Desktop\EA1\EA1\bin\Debug\net8.0\EA1.deps.json
+C:\Users\argo\Desktop\EA1\EA1\bin\Debug\net8.0\EA1.runtimeconfig.json
+C:\Users\argo\Desktop\EA1\EA1\bin\Debug\net8.0\EA1.dll
+C:\Users\argo\Desktop\EA1\EA1\bin\Debug\net8.0\EA1.pdb
+C:\Users\argo\Desktop\EA1\EA1\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\argo\Desktop\EA1\EA1\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\argo\Desktop\EA1\EA1\bin\Debug\net8.0\DnsClient.dll
+C:\Users\argo\Desktop\EA1\EA1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\argo\Desktop\EA1\EA1\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\argo\Desktop\EA1\EA1\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\argo\Desktop\EA1\EA1\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\argo\Desktop\EA1\EA1\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\argo\Desktop\EA1\EA1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\argo\Desktop\EA1\EA1\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\argo\Desktop\EA1\EA1\bin\Debug\net8.0\Snappier.dll
+C:\Users\argo\Desktop\EA1\EA1\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\argo\Desktop\EA1\EA1\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\argo\Desktop\EA1\EA1\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\argo\Desktop\EA1\EA1\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\argo\Desktop\EA1\EA1\obj\Debug\net8.0\EA1.csproj.AssemblyReference.cache
+C:\Users\argo\Desktop\EA1\EA1\obj\Debug\net8.0\EA1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argo\Desktop\EA1\EA1\obj\Debug\net8.0\EA1.AssemblyInfoInputs.cache
+C:\Users\argo\Desktop\EA1\EA1\obj\Debug\net8.0\EA1.AssemblyInfo.cs
+C:\Users\argo\Desktop\EA1\EA1\obj\Debug\net8.0\EA1.csproj.CoreCompileInputs.cache
+C:\Users\argo\Desktop\EA1\EA1\obj\Debug\net8.0\EA1.csproj.Up2Date
+C:\Users\argo\Desktop\EA1\EA1\obj\Debug\net8.0\EA1.dll
+C:\Users\argo\Desktop\EA1\EA1\obj\Debug\net8.0\refint\EA1.dll
+C:\Users\argo\Desktop\EA1\EA1\obj\Debug\net8.0\EA1.pdb
+C:\Users\argo\Desktop\EA1\EA1\obj\Debug\net8.0\EA1.genruntimeconfig.cache
+C:\Users\argo\Desktop\EA1\EA1\obj\Debug\net8.0\ref\EA1.dll
+C:\Users\msi 2.0\Desktop\EA1B\EA1\bin\Debug\net8.0\EA1.exe
+C:\Users\msi 2.0\Desktop\EA1B\EA1\bin\Debug\net8.0\EA1.deps.json
+C:\Users\msi 2.0\Desktop\EA1B\EA1\bin\Debug\net8.0\EA1.runtimeconfig.json
+C:\Users\msi 2.0\Desktop\EA1B\EA1\bin\Debug\net8.0\EA1.dll
+C:\Users\msi 2.0\Desktop\EA1B\EA1\bin\Debug\net8.0\EA1.pdb
+C:\Users\msi 2.0\Desktop\EA1B\EA1\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\msi 2.0\Desktop\EA1B\EA1\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\msi 2.0\Desktop\EA1B\EA1\bin\Debug\net8.0\DnsClient.dll
+C:\Users\msi 2.0\Desktop\EA1B\EA1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\msi 2.0\Desktop\EA1B\EA1\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\msi 2.0\Desktop\EA1B\EA1\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\msi 2.0\Desktop\EA1B\EA1\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\msi 2.0\Desktop\EA1B\EA1\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\msi 2.0\Desktop\EA1B\EA1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\msi 2.0\Desktop\EA1B\EA1\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\msi 2.0\Desktop\EA1B\EA1\bin\Debug\net8.0\Snappier.dll
+C:\Users\msi 2.0\Desktop\EA1B\EA1\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\msi 2.0\Desktop\EA1B\EA1\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\msi 2.0\Desktop\EA1B\EA1\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\msi 2.0\Desktop\EA1B\EA1\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\msi 2.0\Desktop\EA1B\EA1\obj\Debug\net8.0\EA1.csproj.AssemblyReference.cache
+C:\Users\msi 2.0\Desktop\EA1B\EA1\obj\Debug\net8.0\EA1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi 2.0\Desktop\EA1B\EA1\obj\Debug\net8.0\EA1.AssemblyInfoInputs.cache
+C:\Users\msi 2.0\Desktop\EA1B\EA1\obj\Debug\net8.0\EA1.AssemblyInfo.cs
+C:\Users\msi 2.0\Desktop\EA1B\EA1\obj\Debug\net8.0\EA1.csproj.CoreCompileInputs.cache
+C:\Users\msi 2.0\Desktop\EA1B\EA1\obj\Debug\net8.0\EA1.csproj.Up2Date
+C:\Users\msi 2.0\Desktop\EA1B\EA1\obj\Debug\net8.0\EA1.dll
+C:\Users\msi 2.0\Desktop\EA1B\EA1\obj\Debug\net8.0\refint\EA1.dll
+C:\Users\msi 2.0\Desktop\EA1B\EA1\obj\Debug\net8.0\EA1.pdb
+C:\Users\msi 2.0\Desktop\EA1B\EA1\obj\Debug\net8.0\EA1.genruntimeconfig.cache
+C:\Users\msi 2.0\Desktop\EA1B\EA1\obj\Debug\net8.0\ref\EA1.dll
+C:\Users\argo\Desktop\EA1B\EA1\bin\Debug\net8.0\EA1.exe
+C:\Users\argo\Desktop\EA1B\EA1\bin\Debug\net8.0\EA1.deps.json
+C:\Users\argo\Desktop\EA1B\EA1\bin\Debug\net8.0\EA1.runtimeconfig.json
+C:\Users\argo\Desktop\EA1B\EA1\bin\Debug\net8.0\EA1.dll
+C:\Users\argo\Desktop\EA1B\EA1\bin\Debug\net8.0\EA1.pdb
+C:\Users\argo\Desktop\EA1B\EA1\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\argo\Desktop\EA1B\EA1\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\argo\Desktop\EA1B\EA1\bin\Debug\net8.0\DnsClient.dll
+C:\Users\argo\Desktop\EA1B\EA1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\argo\Desktop\EA1B\EA1\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\argo\Desktop\EA1B\EA1\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\argo\Desktop\EA1B\EA1\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\argo\Desktop\EA1B\EA1\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\argo\Desktop\EA1B\EA1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\argo\Desktop\EA1B\EA1\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\argo\Desktop\EA1B\EA1\bin\Debug\net8.0\Snappier.dll
+C:\Users\argo\Desktop\EA1B\EA1\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\argo\Desktop\EA1B\EA1\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\argo\Desktop\EA1B\EA1\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\argo\Desktop\EA1B\EA1\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\argo\Desktop\EA1B\EA1\obj\Debug\net8.0\EA1.csproj.AssemblyReference.cache
+C:\Users\argo\Desktop\EA1B\EA1\obj\Debug\net8.0\EA1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argo\Desktop\EA1B\EA1\obj\Debug\net8.0\EA1.AssemblyInfoInputs.cache
+C:\Users\argo\Desktop\EA1B\EA1\obj\Debug\net8.0\EA1.AssemblyInfo.cs
+C:\Users\argo\Desktop\EA1B\EA1\obj\Debug\net8.0\EA1.csproj.CoreCompileInputs.cache
+C:\Users\argo\Desktop\EA1B\EA1\obj\Debug\net8.0\EA1.csproj.Up2Date
+C:\Users\argo\Desktop\EA1B\EA1\obj\Debug\net8.0\EA1.dll
+C:\Users\argo\Desktop\EA1B\EA1\obj\Debug\net8.0\refint\EA1.dll
+C:\Users\argo\Desktop\EA1B\EA1\obj\Debug\net8.0\EA1.pdb
+C:\Users\argo\Desktop\EA1B\EA1\obj\Debug\net8.0\EA1.genruntimeconfig.cache
+C:\Users\argo\Desktop\EA1B\EA1\obj\Debug\net8.0\ref\EA1.dll
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\bin\Debug\net8.0\EA1.exe
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\bin\Debug\net8.0\EA1.deps.json
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\bin\Debug\net8.0\EA1.runtimeconfig.json
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\bin\Debug\net8.0\EA1.dll
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\bin\Debug\net8.0\EA1.pdb
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\bin\Debug\net8.0\DnsClient.dll
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\bin\Debug\net8.0\Snappier.dll
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\obj\Debug\net8.0\EA1.csproj.AssemblyReference.cache
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\obj\Debug\net8.0\EA1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\obj\Debug\net8.0\EA1.AssemblyInfoInputs.cache
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\obj\Debug\net8.0\EA1.AssemblyInfo.cs
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\obj\Debug\net8.0\EA1.csproj.CoreCompileInputs.cache
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\obj\Debug\net8.0\EA1.csproj.Up2Date
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\obj\Debug\net8.0\EA1.dll
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\obj\Debug\net8.0\refint\EA1.dll
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\obj\Debug\net8.0\EA1.pdb
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\obj\Debug\net8.0\EA1.genruntimeconfig.cache
+C:\Users\argo\Desktop\cat.itb.NF3EA1_ZaportaLaura\EA1\obj\Debug\net8.0\ref\EA1.dll

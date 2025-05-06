@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA2_ZaportaLaura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB0C94C-160E-43DF-AACE-32278B75FE86}|cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura.csproj|c:\\users\\msi 2.0\\desktop\\cat.itb.nf3ea2_zaportalaura\\cat.itb.nf3ea2_zaportalaura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB0C94C-160E-43DF-AACE-32278B75FE86}|cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura.csproj|solutionrelative:cat.itb.nf3ea2_zaportalaura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\msi 2.0\\Desktop\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB0C94C-160E-43DF-AACE-32278B75FE86}|cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura.csproj|c:\\users\\msi 2.0\\desktop\\cat.itb.nf3ea2_zaportalaura\\cat.itb.nf3ea2_zaportalaura\\cruds\\generalcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB0C94C-160E-43DF-AACE-32278B75FE86}|cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura.csproj|solutionrelative:cat.itb.nf3ea2_zaportalaura\\cruds\\generalcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB0C94C-160E-43DF-AACE-32278B75FE86}|cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura.csproj|c:\\users\\msi 2.0\\desktop\\cat.itb.nf3ea2_zaportalaura\\cat.itb.nf3ea2_zaportalaura\\cruds\\countriescrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB0C94C-160E-43DF-AACE-32278B75FE86}|cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura.csproj|solutionrelative:cat.itb.nf3ea2_zaportalaura\\cruds\\countriescrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB0C94C-160E-43DF-AACE-32278B75FE86}|cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura.csproj|c:\\users\\msi 2.0\\desktop\\cat.itb.nf3ea2_zaportalaura\\cat.itb.nf3ea2_zaportalaura\\files\\countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EB0C94C-160E-43DF-AACE-32278B75FE86}|cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura.csproj|solutionrelative:cat.itb.nf3ea2_zaportalaura\\files\\countries.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB0C94C-160E-43DF-AACE-32278B75FE86}|cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura.csproj|c:\\users\\msi 2.0\\desktop\\cat.itb.nf3ea2_zaportalaura\\cat.itb.nf3ea2_zaportalaura\\cruds\\peoplecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB0C94C-160E-43DF-AACE-32278B75FE86}|cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura.csproj|solutionrelative:cat.itb.nf3ea2_zaportalaura\\cruds\\peoplecrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB0C94C-160E-43DF-AACE-32278B75FE86}|cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura.csproj|c:\\users\\msi 2.0\\desktop\\cat.itb.nf3ea2_zaportalaura\\cat.itb.nf3ea2_zaportalaura\\cruds\\productscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB0C94C-160E-43DF-AACE-32278B75FE86}|cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura.csproj|solutionrelative:cat.itb.nf3ea2_zaportalaura\\cruds\\productscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB0C94C-160E-43DF-AACE-32278B75FE86}|cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura.csproj|c:\\users\\msi 2.0\\desktop\\cat.itb.nf3ea2_zaportalaura\\cat.itb.nf3ea2_zaportalaura\\cruds\\restaurantscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB0C94C-160E-43DF-AACE-32278B75FE86}|cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura.csproj|solutionrelative:cat.itb.nf3ea2_zaportalaura\\cruds\\restaurantscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB0C94C-160E-43DF-AACE-32278B75FE86}|cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura.csproj|c:\\users\\msi 2.0\\desktop\\cat.itb.nf3ea2_zaportalaura\\cat.itb.nf3ea2_zaportalaura\\files\\people.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EB0C94C-160E-43DF-AACE-32278B75FE86}|cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura.csproj|solutionrelative:cat.itb.nf3ea2_zaportalaura\\files\\people.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB0C94C-160E-43DF-AACE-32278B75FE86}|cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura.csproj|c:\\users\\msi 2.0\\desktop\\cat.itb.nf3ea2_zaportalaura\\cat.itb.nf3ea2_zaportalaura\\cruds\\bookscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EB0C94C-160E-43DF-AACE-32278B75FE86}|cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura.csproj|solutionrelative:cat.itb.nf3ea2_zaportalaura\\cruds\\bookscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB0C94C-160E-43DF-AACE-32278B75FE86}|cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura.csproj|c:\\users\\msi 2.0\\desktop\\cat.itb.nf3ea2_zaportalaura\\cat.itb.nf3ea2_zaportalaura\\files\\books.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EB0C94C-160E-43DF-AACE-32278B75FE86}|cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura.csproj|solutionrelative:cat.itb.nf3ea2_zaportalaura\\files\\books.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EB0C94C-160E-43DF-AACE-32278B75FE86}|cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura.csproj|c:\\users\\msi 2.0\\desktop\\cat.itb.nf3ea2_zaportalaura\\cat.itb.nf3ea2_zaportalaura\\files\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EB0C94C-160E-43DF-AACE-32278B75FE86}|cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura.csproj|solutionrelative:cat.itb.nf3ea2_zaportalaura\\files\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeneralCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura\\cruds\\GeneralCRUD.cs",
+              "RelativeDocumentMoniker": "cat.itb.NF3EA2_ZaportaLaura\\cruds\\GeneralCRUD.cs",
+              "ToolTip": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura\\cruds\\GeneralCRUD.cs",
+              "RelativeToolTip": "cat.itb.NF3EA2_ZaportaLaura\\cruds\\GeneralCRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:56:30.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountriesCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura\\cruds\\CountriesCRUD.cs",
+              "RelativeDocumentMoniker": "cat.itb.NF3EA2_ZaportaLaura\\cruds\\CountriesCRUD.cs",
+              "ToolTip": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura\\cruds\\CountriesCRUD.cs",
+              "RelativeToolTip": "cat.itb.NF3EA2_ZaportaLaura\\cruds\\CountriesCRUD.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwDQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:51:24.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "people.json",
+              "DocumentMoniker": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura\\files\\people.json",
+              "RelativeDocumentMoniker": "cat.itb.NF3EA2_ZaportaLaura\\files\\people.json",
+              "ToolTip": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura\\files\\people.json",
+              "RelativeToolTip": "cat.itb.NF3EA2_ZaportaLaura\\files\\people.json",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAgwJMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T20:45:57.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PeopleCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura\\cruds\\PeopleCRUD.cs",
+              "RelativeDocumentMoniker": "cat.itb.NF3EA2_ZaportaLaura\\cruds\\PeopleCRUD.cs",
+              "ToolTip": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura\\cruds\\PeopleCRUD.cs",
+              "RelativeToolTip": "cat.itb.NF3EA2_ZaportaLaura\\cruds\\PeopleCRUD.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:45:20.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "books.json",
+              "DocumentMoniker": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura\\files\\books.json",
+              "RelativeDocumentMoniker": "cat.itb.NF3EA2_ZaportaLaura\\files\\books.json",
+              "ToolTip": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura\\files\\books.json",
+              "RelativeToolTip": "cat.itb.NF3EA2_ZaportaLaura\\files\\books.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACFBQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T20:37:30.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BooksCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura\\cruds\\BooksCRUD.cs",
+              "RelativeDocumentMoniker": "cat.itb.NF3EA2_ZaportaLaura\\cruds\\BooksCRUD.cs",
+              "ToolTip": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura\\cruds\\BooksCRUD.cs",
+              "RelativeToolTip": "cat.itb.NF3EA2_ZaportaLaura\\cruds\\BooksCRUD.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwEAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:30:33.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "products.json",
+              "DocumentMoniker": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura\\files\\products.json",
+              "RelativeDocumentMoniker": "cat.itb.NF3EA2_ZaportaLaura\\files\\products.json",
+              "ToolTip": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura\\files\\products.json",
+              "RelativeToolTip": "cat.itb.NF3EA2_ZaportaLaura\\files\\products.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T20:25:03.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura\\cruds\\ProductsCRUD.cs",
+              "RelativeDocumentMoniker": "cat.itb.NF3EA2_ZaportaLaura\\cruds\\ProductsCRUD.cs",
+              "ToolTip": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura\\cruds\\ProductsCRUD.cs",
+              "RelativeToolTip": "cat.itb.NF3EA2_ZaportaLaura\\cruds\\ProductsCRUD.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAmwHkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T20:23:49.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura\\Program.cs",
+              "RelativeDocumentMoniker": "cat.itb.NF3EA2_ZaportaLaura\\Program.cs",
+              "ToolTip": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura\\Program.cs*",
+              "RelativeToolTip": "cat.itb.NF3EA2_ZaportaLaura\\Program.cs*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAUwFUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:43:49.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "countries.json",
+              "DocumentMoniker": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura\\files\\countries.json",
+              "RelativeDocumentMoniker": "cat.itb.NF3EA2_ZaportaLaura\\files\\countries.json",
+              "ToolTip": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura\\files\\countries.json",
+              "RelativeToolTip": "cat.itb.NF3EA2_ZaportaLaura\\files\\countries.json",
+              "ViewState": "AgIAAAwDAAAAAAAAAAAgwCYDAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T08:28:04.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\msi 2.0\\Desktop\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Program.cs",
+              "ToolTip": "C:\\Users\\msi 2.0\\Desktop\\Program.cs",
+              "RelativeToolTip": "..\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:44:14.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RestaurantsCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura\\cruds\\RestaurantsCRUD.cs",
+              "RelativeDocumentMoniker": "cat.itb.NF3EA2_ZaportaLaura\\cruds\\RestaurantsCRUD.cs",
+              "ToolTip": "C:\\Users\\msi 2.0\\Desktop\\cat.itb.NF3EA2_ZaportaLaura\\cat.itb.NF3EA2_ZaportaLaura\\cruds\\RestaurantsCRUD.cs",
+              "RelativeToolTip": "cat.itb.NF3EA2_ZaportaLaura\\cruds\\RestaurantsCRUD.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwEMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T07:09:36.7Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
